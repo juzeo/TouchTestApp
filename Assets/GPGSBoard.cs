@@ -7,7 +7,7 @@ using UnityEngine.Advertisements;
 using UnityEngine.UI;
 
 public class GPGSBoard : MonoBehaviour
-{
+{/*
     public void Awake()
     {
         PlayGamesPlatform.InitializeInstance(new PlayGamesClientConfiguration.Builder().Build());
@@ -24,7 +24,7 @@ public class GPGSBoard : MonoBehaviour
 
         Social.Active.ShowLeaderboardUI();
     }
-
+    */
 
 
     }
